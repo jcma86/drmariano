@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio on Dr. Mariano Cruz Márquez</title>
+    <link>https://drmariano.cruzmarquez.com/es/portfolio/</link>
+    <description>Recent content in Portafolio on Dr. Mariano Cruz Márquez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://drmariano.cruzmarquez.com/es/portfolio/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
